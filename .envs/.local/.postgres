@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=project_cua_nhan
+POSTGRES_USER=UbzKNAzJfqPNBTMnwphYVbfSQiwiGTRq
+POSTGRES_PASSWORD=h43V4TbHVWno3q7aeTWqR3Bt37KnYpHkjoq8UL6xLhUfR6tK04QWRZNCKPYtTTLw
